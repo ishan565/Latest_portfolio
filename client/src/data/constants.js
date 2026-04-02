@@ -174,7 +174,7 @@ export const projects = [
       'The Decision Intelligence Platform turns subjective choices into structured, explainable decisions using Multi-Criteria Decision Analysis (MCDA). Users assign importance weights to criteria and score options, and the engine computes optimal choices with confidence scores. It features Explainable AI (XAI) that pinpoints dominant and weakest factors with clear reasoning. A local RAG pipeline using cosine similarity pulls relevant facts from a knowledge base, then injects them into Azure OpenAI prompts for grounded explanations. Also includes scenario simulation to compare outcomes across different preference setups, with React charts for visualization.',
     tags: ['Spring Boot', 'Java', 'React', 'Azure OpenAI', 'RAG', 'MCDA', 'Tailwind CSS', 'Recharts'],
     image: '/projects/decisionai.png',
-    github: 'https://github.com/ishan565',
+    github: 'https://github.com/ishan565/DecisionAI-RAG-GenAI-',
     live: '#',
     featured: true,
     highlights: ['MCDA weighted scoring engine', 'Explainable AI (XAI) reasoning', 'Local RAG with cosine similarity', 'Scenario simulation & comparison'],
