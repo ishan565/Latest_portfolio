@@ -240,7 +240,7 @@ export const projects = [
       'TaskSphere is a full-stack event management platform that streamlines event creation, booking, and attendee management. Features include smart time-slot allocation that prevents double-booking, role-based access control (admin/organizer/attendee), real-time event updates via polling, and a dashboard with event analytics. Built with Next.js for SSR performance, Node.js backend, and MongoDB for flexible event schema storage. The UI is clean and intuitive with calendar views and drag-and-drop scheduling.',
     tags: ['Next.js', 'Node.js', 'MongoDB'],
     image: '/projects/tasksphere.png',
-    github: 'https://github.com/ishan565',
+    github: 'https://github.com/ishan565/TaskSphere',
     live: '#',
     featured: false,
     highlights: ['Smart slot allocation', 'Role-based access control', 'Real-time event updates', 'Calendar & drag-and-drop UI'],
